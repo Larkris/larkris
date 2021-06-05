@@ -1,0 +1,164 @@
+# akamai
+host-suffix, akamai.net, proxy
+
+# amazon
+host-suffix, amazon.com, proxy
+host-suffix, amazonaws.com, proxy
+host-suffix, cloudfront.net, proxy
+
+# apple
+host, appleid.apple.com, proxy
+host, apps.apple.com, proxy
+host, beta.music.apple.com, proxy
+host, books.itunes.apple.com, proxy
+host, developer.apple.com, proxy
+host, itunes.apple.com, proxy
+host, lookup-api.apple.com, proxy
+host, ocsp.apple.com, proxy
+host, testflight.apple.com, proxy
+host, www.icloud.com, proxy
+host, xp.apple.com, proxy
+host-suffix, apple.news, proxy
+host-suffix, appsto.re, proxy
+host-suffix, smoot.apple.com, proxy
+
+# dropbox
+host-suffix, dropbox.com, proxy
+host-suffix, dropboxapi.com, proxy
+host-suffix, dropboxusercontent.com, proxy
+
+# facebook
+host-suffix, cdninstagram.com, proxy
+host-suffix, facebook.com, proxy
+host-suffix, facebook.net, proxy
+host-suffix, fb.com, proxy
+host-suffix, fb.me, proxy
+host-suffix, fbaddins.com, proxy
+host-suffix, fbcdn.net, proxy
+host-suffix, fbsbx.com, proxy
+host-suffix, fbworkmail.com, proxy
+host-suffix, ig.me, proxy
+host-suffix, instagram.com, proxy
+host-suffix, m.me, proxy
+host-suffix, messenger.com, proxy
+host-suffix, oculus.com, proxy
+host-suffix, oculuscdn.com, proxy
+host-suffix, rocksdb.org, proxy
+host-suffix, whatsapp.com, proxy
+host-suffix, whatsapp.net, proxy
+
+# github
+host-suffix, github.com, proxy
+host-suffix, github.io, proxy
+host-suffix, githubusercontent.com, proxy
+
+# google
+host-suffix, appspot.com, proxy
+host-suffix, blogger.com, proxy
+host-suffix, getoutline.org, proxy
+host-suffix, gvt0.com, proxy
+host-suffix, gvt3.com, proxy
+host-suffix, xn--ngstr-lra8j.com, proxy
+host-keyword, blogspot, proxy
+host-keyword, google, proxy
+
+# microsoft
+host, store-images.s-microsoft.com, proxy
+host-suffix, aka.ms, proxy
+host-suffix, bing.com, proxy
+host-suffix, onedrive.live.com, proxy
+host-suffix, streaming.mediaservices.windows.net, proxy
+host-suffix, vo.msecnd.net, proxy
+host-suffix, xboxlive.com, proxy
+
+# nvidia
+host, international-gfe.download.nvidia.com, proxy
+host-suffix, geforce.com, proxy
+
+# pixiv
+host-suffix, pixiv.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pximg.net, proxy
+
+# reddit
+host-suffix, redd.it, proxy
+host-suffix, reddit.com, proxy
+host-suffix, redditmedia.com, proxy
+
+# teevee
+host-suffix, themoviedb.org, proxy
+host-suffix, thetvdb.com, proxy
+host-suffix, trakt.tv, proxy
+
+# wikipedia
+host-suffix, wikileaks.org, proxy
+host-suffix, wikimapia.org, proxy
+host-suffix, wikimedia.org, proxy
+host-suffix, wikinews.org, proxy
+host-suffix, wikipedia.org, proxy
+host-suffix, wikiquote.org, proxy
+
+# yahoo
+host-suffix, yahoo.com, proxy
+host-suffix, yimg.com, proxy
+
+# blocked_misc
+host-suffix, 1password.com, proxy
+host-suffix, aqicn.org, proxy
+host-suffix, bit.ly, proxy
+host-suffix, dayone.me, proxy
+host-suffix, disqus.com, proxy
+host-suffix, dueapp.com, proxy
+host-suffix, flexibits.com, proxy
+host-suffix, gravatar.com, proxy
+host-suffix, macrumors.com, proxy
+host-suffix, medium.com, proxy
+host-suffix, revenuecat.com, proxy
+host-suffix, rime.im, proxy
+host-suffix, waqi.info, proxy
+host-suffix, wp.com, proxy
+
+# code
+host-suffix, hk, proxy
+host-suffix, jp, proxy
+host-suffix, tw, proxy
+host-suffix, uk, proxy
+host-suffix, us, proxy
+
+# facebook_ip
+ip-cidr, 31.13.24.0/21, proxy
+ip-cidr, 31.13.64.0/18, proxy
+ip-cidr, 45.64.40.0/22, proxy
+ip-cidr, 66.220.144.0/20, proxy
+ip-cidr, 69.63.176.0/20, proxy
+ip-cidr, 69.171.224.0/19, proxy
+ip-cidr, 74.119.76.0/22, proxy
+ip-cidr, 103.4.96.0/22, proxy
+ip-cidr, 129.134.0.0/17, proxy
+ip-cidr, 157.240.0.0/17, proxy
+ip-cidr, 173.252.64.0/19, proxy
+ip-cidr, 173.252.96.0/19, proxy
+ip-cidr, 179.60.192.0/22, proxy
+ip-cidr, 185.60.216.0/22, proxy
+ip-cidr, 204.15.20.0/22, proxy
+
+# google_ip
+ip-cidr, 35.190.247.0/24, proxy
+ip-cidr, 64.233.160.0/19, proxy
+ip-cidr, 66.102.0.0/20, proxy
+ip-cidr, 66.249.80.0/20, proxy
+ip-cidr, 72.14.192.0/18, proxy
+ip-cidr, 74.125.0.0/16, proxy
+ip-cidr, 108.177.8.0/21, proxy
+ip-cidr, 172.217.0.0/16, proxy
+ip-cidr, 173.194.0.0/16, proxy
+ip-cidr, 209.85.128.0/17, proxy
+ip-cidr, 216.58.192.0/19, proxy
+ip-cidr, 216.239.32.0/19, proxy
+
+# wikimedia_ip
+ip-cidr, 91.198.174.0/24, proxy
+ip-cidr, 103.102.166.0/24, proxy
+ip-cidr, 185.15.56.0/22, proxy
+ip-cidr, 198.35.26.0/23, proxy
+ip-cidr, 208.80.152.0/22, proxy

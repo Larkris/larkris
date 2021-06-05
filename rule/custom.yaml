@@ -1,0 +1,69 @@
+payload:
+  # changzhouxing
+  - DOMAIN-SUFFIX,bwton.com
+  - DOMAIN-SUFFIX,czjtkx.com
+  - DOMAIN-SUFFIX,czsmk.com
+  - DOMAIN-SUFFIX,snowballtech.com
+
+  # ioszen
+  - DOMAIN-SUFFIX,ioszen.com
+  - DOMAIN-SUFFIX,jsboxbbs.com
+  - DOMAIN-SUFFIX,xteko.com
+
+  # meituan
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,dpfile.com
+  - DOMAIN-KEYWORD,meituan
+
+  # mi
+  - DOMAIN-SUFFIX,huami.com
+  - DOMAIN-SUFFIX,mipay.com
+
+  # pinduoduo
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-KEYWORD,pinduoduo
+
+  # sina
+  - DOMAIN-SUFFIX,miaopai.com
+
+  # smzdm
+  - DOMAIN-SUFFIX,zdmimg.com
+
+  # unblock_misc
+  - DOMAIN-SUFFIX,10010.com
+  - DOMAIN-SUFFIX,423down.com
+  - DOMAIN-SUFFIX,bookfere.com
+  - DOMAIN-SUFFIX,caiyunapp.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,crossutility.com
+  - DOMAIN-SUFFIX,fengimg.com
+  - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,haishan.me
+  - DOMAIN-SUFFIX,hecdn.net
+  - DOMAIN-SUFFIX,heweather.net
+  - DOMAIN-SUFFIX,hrtsea.com
+  - DOMAIN-SUFFIX,hualongxiang.com
+  - DOMAIN-SUFFIX,ibeta.me
+  - DOMAIN-SUFFIX,ifeng.com
+  - DOMAIN-SUFFIX,ifengimg.com
+  - DOMAIN-SUFFIX,ipsw.me
+  - DOMAIN-SUFFIX,komect.com
+  - DOMAIN-SUFFIX,kuaidi100.com
+  - DOMAIN-SUFFIX,kuaishou.com
+  - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,maxmind.com
+  - DOMAIN-SUFFIX,mtime.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,qweather.com
+  - DOMAIN-SUFFIX,qweather.net
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,razord.top
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,sf-express.com
+  - DOMAIN-SUFFIX,suning.com
+  - DOMAIN-SUFFIX,xiaoxiongyouhao.com
+  - DOMAIN-SUFFIX,xiaozhuanlan.com
+  - DOMAIN-SUFFIX,xunlei.com
+  - DOMAIN-SUFFIX,yinfans.me
+  - DOMAIN-SUFFIX,zxcs.me
+  - DOMAIN-KEYWORD,speedtest

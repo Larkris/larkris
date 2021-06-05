@@ -1,0 +1,42 @@
+# telegram
+host-suffix, t.me, proxy
+host-suffix, tdesktop.com, proxy
+host-suffix, telegra.ph, proxy
+host-suffix, telegram.me, proxy
+host-suffix, telegram.org, proxy
+host-suffix, telesco.pe, proxy
+
+# twitter
+host-suffix, periscope.tv, proxy
+host-suffix, pscp.tv, proxy
+host-suffix, t.co, proxy
+host-suffix, tapbots.com, proxy
+host-suffix, tapbots.net, proxy
+host-suffix, twimg.co, proxy
+host-suffix, twimg.com, proxy
+host-suffix, twitpic.com, proxy
+host-suffix, twitter.com, proxy
+host-suffix, vine.co, proxy
+
+# telegram_ip
+ip-cidr, 91.108.4.0/22, proxy
+ip-cidr, 91.108.8.0/22, proxy
+ip-cidr, 91.108.12.0/22, proxy
+ip-cidr, 91.108.16.0/22, proxy
+ip-cidr, 91.108.20.0/22, proxy
+ip-cidr, 91.108.56.0/22, proxy
+ip-cidr, 95.161.64.0/20, proxy
+ip-cidr, 149.154.160.0/20, proxy
+ip6-cidr, 2001:67c:4e8::/48, proxy
+ip6-cidr, 2001:b28:f23d::/48, proxy
+ip6-cidr, 2001:b28:f23f::/48, proxy
+
+# twitter_ip
+ip-cidr, 69.195.160.0/19, proxy
+ip-cidr, 104.244.42.0/21, proxy
+ip-cidr, 192.133.76.0/22, proxy
+ip-cidr, 199.16.156.0/22, proxy
+ip-cidr, 199.59.148.0/22, proxy
+ip-cidr, 199.96.56.0/21, proxy
+ip-cidr, 202.160.128.0/22, proxy
+ip-cidr, 209.237.192.0/19, proxy
