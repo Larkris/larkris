@@ -112,8 +112,6 @@ host-suffix, xiaomi.net, direct
 # microsoft
 host, download.microsoft.com, direct
 host, ntservicepack.microsoft.com, direct
-host, outlook.office365.com, direct
-host, smtp.office365.com, direct
 host, wustat.windows.com, direct
 host-suffix, hotmail.com, direct
 host-suffix, outlook.com, direct
@@ -230,7 +228,6 @@ host-suffix, xunlei.com, direct
 host-suffix, yinfans.me, direct
 host-suffix, zhihu.com, direct
 host-suffix, zhimg.com, direct
-host-suffix, zxcs.me, direct
 host-keyword, lanzou, direct
 host-keyword, speedtest, direct
 

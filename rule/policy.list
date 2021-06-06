@@ -85,11 +85,6 @@ host-suffix, redd.it, proxy
 host-suffix, reddit.com, proxy
 host-suffix, redditmedia.com, proxy
 
-# teevee
-host-suffix, themoviedb.org, proxy
-host-suffix, thetvdb.com, proxy
-host-suffix, trakt.tv, proxy
-
 # wikipedia
 host-suffix, wikileaks.org, proxy
 host-suffix, wikimapia.org, proxy
@@ -103,13 +98,9 @@ host-suffix, yahoo.com, proxy
 host-suffix, yimg.com, proxy
 
 # blocked_misc
-host-suffix, 1password.com, proxy
 host-suffix, aqicn.org, proxy
 host-suffix, bit.ly, proxy
-host-suffix, dayone.me, proxy
 host-suffix, disqus.com, proxy
-host-suffix, dueapp.com, proxy
-host-suffix, flexibits.com, proxy
 host-suffix, gravatar.com, proxy
 host-suffix, macrumors.com, proxy
 host-suffix, medium.com, proxy

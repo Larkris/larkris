@@ -1,11 +1,3 @@
-# apple_tv
-host, hls-amt.itunes.apple.com, proxy
-host, hls.itunes.apple.com, proxy
-host, play-edge.itunes.apple.com, proxy
-host-suffix, tv.apple.com, proxy
-user-agent, AppleTV*, proxy
-user-agent, com.apple.tv*, proxy
-
 # pornhub
 host-suffix, phncdn.com, proxy
 host-suffix, phprcdn.com, proxy
