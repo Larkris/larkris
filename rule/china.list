@@ -57,13 +57,6 @@ host-suffix, bilibili.com, direct
 host-suffix, bilibili.tv, direct
 host-suffix, hdslb.com, direct
 
-# bytedance
-host-suffix, feiliao.com, direct
-host-suffix, iesdouyin.com, direct
-host-suffix, pstatp.com, direct
-host-suffix, snssdk.com, direct
-host-suffix, toutiao.com, direct
-
 # changzhouxing
 host-suffix, bwton.com, direct
 host-suffix, czjtkx.com, direct

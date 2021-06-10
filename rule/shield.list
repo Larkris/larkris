@@ -11,16 +11,6 @@ host-suffix, ads.prd.ie.internal.unity3d.com, reject
 host-suffix, iadsdk.apple.com, reject
 host-suffix, unityads.unity3d.com, reject
 
-# ad_autohome
-host, adm0.autoimg.cn, reject
-host, adm1.autoimg.cn, reject
-host, adm2.autoimg.cn, reject
-host, adm3.autoimg.cn, reject
-host, adproxy.autohome.com.cn, reject
-host, al.autohome.com.cn, reject
-host, applogapi.autohome.com.cn, reject
-host, rd.autohome.com.cn, reject
-
 # ad_baidu
 host, afd.baidu.com, reject
 host, als.baidu.com, reject
@@ -34,17 +24,6 @@ host, nsclick.baidu.com, reject
 host-suffix, cpro.baidu.com, reject
 host-suffix, duapps.com, reject
 host-suffix, pos.baidu.com, reject
-
-# ad_bytedance
-host, ad.toutiao.com, reject
-host, log-hl-ipv6.snssdk.com, reject
-host, log-lq.snssdk.com, reject
-host, log-va.tiktokv.com, reject
-host, log.byteoversea.com, reject
-host, log.tiktokv.com, reject
-host, pangolin.snssdk.com, reject
-host, xlog.snssdk.com, reject
-host-suffix, pangolin-sdk-toutiao.com, reject
 
 # ad_google
 host, ads.youtube.com, reject
