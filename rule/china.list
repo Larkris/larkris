@@ -63,11 +63,6 @@ host-suffix, czjtkx.com, direct
 host-suffix, czsmk.com, direct
 host-suffix, snowballtech.com, direct
 
-# ioszen
-host-suffix, ioszen.com, direct
-host-suffix, jsboxbbs.com, direct
-host-suffix, xteko.com, direct
-
 # ip_query
 host-suffix, ip-cdn.com, direct
 host-suffix, ipip.net, direct
@@ -109,7 +104,6 @@ host-suffix, 127.net, direct
 host-suffix, 163.com, direct
 host-suffix, 163jiasu.com, direct
 host-suffix, 163yun.com, direct
-host-suffix, lofter.com, direct
 host-suffix, netease.com, direct
 host-suffix, ydstatic.com, direct
 host-suffix, youdao.com, direct

@@ -78,6 +78,7 @@ host-suffix, yimg.com, proxy
 
 # blocked_misc
 host-suffix, aqicn.org, proxy
+host-suffix, avgle.com, proxy
 host-suffix, bit.ly, proxy
 host-suffix, disqus.com, proxy
 host-suffix, gravatar.com, proxy
