@@ -33,19 +33,11 @@ host-suffix, facebook.com, proxy
 host-suffix, facebook.net, proxy
 host-suffix, fb.com, proxy
 host-suffix, fb.me, proxy
-host-suffix, fbaddins.com, proxy
 host-suffix, fbcdn.net, proxy
-host-suffix, fbsbx.com, proxy
-host-suffix, fbworkmail.com, proxy
 host-suffix, ig.me, proxy
 host-suffix, instagram.com, proxy
-host-suffix, m.me, proxy
-host-suffix, messenger.com, proxy
 host-suffix, oculus.com, proxy
 host-suffix, oculuscdn.com, proxy
-host-suffix, rocksdb.org, proxy
-host-suffix, whatsapp.com, proxy
-host-suffix, whatsapp.net, proxy
 
 # github
 host-suffix, github.com, proxy
@@ -61,19 +53,6 @@ host-suffix, gvt3.com, proxy
 host-suffix, xn--ngstr-lra8j.com, proxy
 host-keyword, blogspot, proxy
 host-keyword, google, proxy
-
-# microsoft
-host, store-images.s-microsoft.com, proxy
-host-suffix, aka.ms, proxy
-host-suffix, bing.com, proxy
-host-suffix, onedrive.live.com, proxy
-host-suffix, streaming.mediaservices.windows.net, proxy
-host-suffix, vo.msecnd.net, proxy
-host-suffix, xboxlive.com, proxy
-
-# nvidia
-host, international-gfe.download.nvidia.com, proxy
-host-suffix, geforce.com, proxy
 
 # pixiv
 host-suffix, pixiv.net, proxy

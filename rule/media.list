@@ -4,13 +4,6 @@ host-suffix, phprcdn.com, proxy
 host-suffix, pornhub.com, proxy
 host-suffix, pornhubpremium.com, proxy
 
-# spotify
-host-suffix, pscdn.co, proxy
-host-suffix, scdn.co, proxy
-host-suffix, spoti.fi, proxy
-host-keyword, spotify, proxy
-user-agent, Spotify*, proxy
-
 # youtube
 host, youtubei.googleapis.com, proxy
 host, yt3.ggpht.com, proxy

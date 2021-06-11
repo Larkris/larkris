@@ -102,17 +102,6 @@ host-suffix, miwifi.com, direct
 host-suffix, xiaomi.com, direct
 host-suffix, xiaomi.net, direct
 
-# microsoft
-host, download.microsoft.com, direct
-host, ntservicepack.microsoft.com, direct
-host, wustat.windows.com, direct
-host-suffix, hotmail.com, direct
-host-suffix, outlook.com, direct
-host-suffix, update.microsoft.com, direct
-host-suffix, visualstudio.com, direct
-host-suffix, windowsupdate.com, direct
-host-suffix, windowsupdate.microsoft.com, direct
-
 # netease
 host-suffix, 126.com, direct
 host-suffix, 126.net, direct
@@ -170,7 +159,6 @@ host, images-cn.ssl-images-amazon.com, direct
 host-suffix, 10010.com, direct
 host-suffix, 21cn.com, direct
 host-suffix, 423down.com, direct
-host-suffix, amazfitwatchfaces.com, direct
 host-suffix, app-measurement.com, direct
 host-suffix, bookfere.com, direct
 host-suffix, caiyunapp.com, direct
@@ -195,14 +183,12 @@ host-suffix, ipsw.me, direct
 host-suffix, ithome.com, direct
 host-suffix, jianguoyun.com, direct
 host-suffix, jidian.im, direct
-host-suffix, komect.com, direct
 host-suffix, kuaidi100.com, direct
 host-suffix, kuaishou.com, direct
 host-suffix, loli.net, direct
 host-suffix, maxmind.com, direct
 host-suffix, mtime.com, direct
 host-suffix, notion.so, direct
-host-suffix, nvidia.com, direct
 host-suffix, pcbeta.com, direct
 host-suffix, qweather.com, direct
 host-suffix, qweather.net, direct
