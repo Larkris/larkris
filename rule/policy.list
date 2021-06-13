@@ -77,7 +77,6 @@ host-suffix, yahoo.com, proxy
 host-suffix, yimg.com, proxy
 
 # blocked_misc
-host-suffix, aqicn.org, proxy
 host-suffix, avgle.com, proxy
 host-suffix, bit.ly, proxy
 host-suffix, disqus.com, proxy
@@ -86,7 +85,6 @@ host-suffix, macrumors.com, proxy
 host-suffix, medium.com, proxy
 host-suffix, revenuecat.com, proxy
 host-suffix, rime.im, proxy
-host-suffix, waqi.info, proxy
 host-suffix, wp.com, proxy
 
 # code
